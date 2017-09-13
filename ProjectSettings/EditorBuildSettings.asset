@@ -39,11 +39,20 @@ EditorBuildSettings:
     path: Assets/GamesCreated/BattleOfGasStation/Battle of Gas Station.unity
     guid: 545fe2583089660479b57f443b703463
   - enabled: 1
+    path: Assets/Cinematics/Cinematic Gaz Station/Essence Sortie.unity
+    guid: c677ff6b09aaf7043a2258b4c685cf81
+  - enabled: 1
     path: Assets/GamesCreated/OutRun/OutRun3.unity
     guid: 9156b1bc9f7b94d21a0b725c4f772a1e
   - enabled: 1
     path: Assets/Cinematics/Cinematic Transition Outrun/TransitionOutrun3.unity
     guid: 160bd405c2c804a7d802f7b9a0362bd2
+  - enabled: 1
+    path: Assets/Cinematics/Cinematic Plateformer/Platformer.unity
+    guid: d99dd60eb91c7458987bf410b3e547fe
+  - enabled: 1
+    path: Assets/GamesCreated/BattleOfPlateform/BattleOfPlateform.unity
+    guid: 2432bd16e46514d4e865621f1e1467b1
   - enabled: 1
     path: Assets/Menus/LearderBoard/LeaderBoard.unity
     guid: fdf870937b3101e4db6f34ca9628b558
